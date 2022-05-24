@@ -20,7 +20,7 @@ import sqlite3
 
 
 def create_schema():
-
+   
     # Conectarnos a la base de datos
     # En caso de que no exista el archivo se genera
     # como una base de datos vacia
